@@ -7,3 +7,4 @@ Den theoretischen Rahmen bildete der Societal Approach (Forschungsansatz der IP�
 Der Vergleich erfolgte über das Maß der Kosinussimilarität (Vector Space Modelling). 
 
 Das Script erläutert aber lediglich den Vorgang der "Datenbeschaffung", i.e. textliche Daten (Sprechakte, Statements, Regierungserklärungen).
+Datengrundlage/ -quelle: https://georgewbush-whitehouse.archives.gov/infocus/iraq/archive.html
